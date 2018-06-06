@@ -1,0 +1,19 @@
+{
+  "name": "faver",
+  "version": "0.0.1",
+  "description": "one multiple-page first, modern-browser-friendly, extensible webframework based on fibjs runtime.",
+  "repository": "https://github.com/richardo2016/faver",
+  "main": "./faver.ts",
+  "keywords": [
+    "fibjs",
+    "anchor",
+    "vue",
+    "extensible"
+  ],
+  "author": "Richard <richardo2016@gmail.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "fib-pug": "0.0.1",
+    "fib-types": "^1.0.0-dev"
+  }
+}
